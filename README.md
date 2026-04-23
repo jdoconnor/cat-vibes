@@ -2,6 +2,8 @@
 
 ## Origin Story
 
+This was created to see a new what types of decisions a new version of Qwen would make on its own.
+
 > hi. my name is kratos. i'm not the regular user of this computer. i'm looking to vibe code something fun. oh yeah, i forgot -- i'm a cat. make something cool.
 
 ## What is this?
